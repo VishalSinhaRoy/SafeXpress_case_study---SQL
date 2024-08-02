@@ -1,4 +1,4 @@
-# SQL-ER-Diagram
+# SafeXpress_SQL-ER-Diagram
 
 ![image](https://github.com/VishalSinhaRoy/SQL-ER-Diagram/assets/162811130/b01d9770-ff00-47c0-b4f5-d68562953a67)
 
