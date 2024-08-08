@@ -1,4 +1,4 @@
-# SafeXpress_case_study_SQL
+# SafeXpress_case_study-SQL
 
 ![image](https://github.com/VishalSinhaRoy/SQL-ER-Diagram/assets/162811130/b01d9770-ff00-47c0-b4f5-d68562953a67)
 
